@@ -1,4 +1,4 @@
-package com.knight.estoque.servicos;
+package com.knight.gestao.servicos;
 
 public class UsuarioNaoAutorizadoException extends Exception {
     private static final long serialVersionUID = 1L;
